@@ -1,5 +1,6 @@
 import { defineAgent } from "eve";
 
 export default defineAgent({
-  model: "openai/gpt-5.6-luna-fast",
+  model: "google/gemini-1.5-flash",
+  
 });
